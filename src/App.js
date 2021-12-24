@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h2>Amplify and React js</h2>
       </header>
     </div>
   );
